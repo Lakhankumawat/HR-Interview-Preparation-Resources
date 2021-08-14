@@ -1,3 +1,4 @@
+![HR-Interview-Preparation-Resources](https://socialify.git.ci/Lakhankumawat/HR-Interview-Preparation-Resources/image?description=1&font=Raleway&language=1&logo=https%3A%2F%2Flh3.googleusercontent.com%2F-HWJywamC0JdxWkCxUGA8R-rsNubiA8ayRHOg8x0EoADQsWu0-HPcZIY1Z8lFCmcIw&owner=1&stargazers=1&theme=Dark)
 ## HR Interview Preparation Resources
 
  **Important- This list of resources is only for personal use. I am not the owner of any of the below resources. I have just compiled all the resources at one place. All the credits go to the respective owners.**
