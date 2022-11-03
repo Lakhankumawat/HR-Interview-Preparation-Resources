@@ -3,33 +3,15 @@
 
  **Important- This list of resources is only for personal use. I am not the owner of any of the below resources. I have just compiled all the resources at one place. All the credits go to the respective owners.**
 
-1. Prepleaf Interview Preparation Playlist-
+- [Mindset for HR Interviews](https://leetcode.com/discuss/interview-question/1729926/A-guide-for-Behavioral-round) ⭐
+- [Prepleaf Interview Preparation Playlist](https://www.youtube.com/watch?v=-zF9nQVRD4g&list=PLQqfhrN5hwqq2cc-00lE4lad1DWmd1_4c)
+- [Consulting Interview HR Questions](https://docs.google.com/document/d/1ijco-U6PcTKV_kJzk2zcN80WFdDMy6kzzTz78oZ44Tc/edit)
+- [How to Answer the 64 Toughest Interview Questions](https://docs.google.com/document/d/0B8n-7ug6P08uNzBrNUdneEVGbDg/edit?resourcekey=0-AaJStZYa1XCmbF4Wq2--IQ)
+- [Ten Tough Interview Questions and Ten Great Answers](https://drive.google.com/file/d/0B8n-7ug6P08ub1Vqc251aVFKOFE/view?resourcekey=0-SvkNIq34kHNpT1G1S5xfTQ)
+- [Sample Interview Questions with Suggested Ways of Answering](https://docs.google.com/document/d/0B8n-7ug6P08uUm9JQnNDdWdIaW8/edit?resourcekey=0-4sj3fKSaqWgYesirH806bw)
 
-<https://www.youtube.com/watch?v=-zF9nQVRD4g&list=PLQqfhrN5hwqq2cc-00lE4lad1DWmd1_4c> 
-
-2. Consulting Interview HR Questions-
-
-<https://docs.google.com/document/d/1ijco-U6PcTKV_kJzk2zcN80WFdDMy6kzzTz78oZ44Tc/edit> 
-
-3. How to Answer the 64 Toughest Interview Questions-
-
-<https://docs.google.com/document/d/0B8n-7ug6P08uNzBrNUdneEVGbDg/edit?resourcekey=0-AaJStZYa1XCmbF4Wq2--IQ> 
-
-4. Ten Tough Interview Questions and Ten Great Answers-
-
-<https://drive.google.com/file/d/0B8n-7ug6P08ub1Vqc251aVFKOFE/view?resourcekey=0-SvkNIq34kHNpT1G1S5xfTQ> 
-
-5. Sample Interview Questions with Suggested Ways of Answering-
-
-<https://docs.google.com/document/d/0B8n-7ug6P08uUm9JQnNDdWdIaW8/edit?resourcekey=0-4sj3fKSaqWgYesirH806bw> 
-
-6. How to Prepare for a Job Interview-
-
-<https://docs.google.com/document/d/0B8n-7ug6P08uYnFNcG9DSjA5YTQ/edit?resourcekey=0-LctxoSz8UzLCupKNIbDQ7A> 
-
-7. Interview Preparation (Research the Company, What to Wear, Questions Normally Asked by the Employer, Questions to Ask the Employer, Ways to Fail at an Interview, Ways to Succeed at an Interview, Thank You Letters)-
-
-<https://docs.google.com/document/d/0B8n-7ug6P08uUkNxWEtULXd6X1E/edit?resourcekey=0-29nlDTa647XYhNPw0yYuzQ> 
+- [How to Prepare for a Job Interview](https://docs.google.com/document/d/0B8n-7ug6P08uYnFNcG9DSjA5YTQ/edit?resourcekey=0-LctxoSz8UzLCupKNIbDQ7A)
+- [Interview Preparation (Research the Company, What to Wear, Questions Normally Asked by the Employer, Questions to Ask the Employer, Ways to Fail at an Interview, Ways to Succeed at an Interview, Thank You Letters](https://docs.google.com/document/d/0B8n-7ug6P08uUkNxWEtULXd6X1E/edit?resourcekey=0-29nlDTa647XYhNPw0yYuzQ)
 
 8. Interview Preparation (Introduction, Before the Interview, Types of Interviews, What Interviews Look for, After the Interview, Helpful Hints, Career Management Center Resources, Questions to Ask Recruiters, Interview Question Database, Case Study Example Questions)- 
 
